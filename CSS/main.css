@@ -29,10 +29,9 @@ body {
     font-size: 4rem;
     text-align: center;
   }
-
-  .emoji p {
+ .emoji p {
     order: 2;
-  }
+  } 
 
 .emojis {
     display: grid;
